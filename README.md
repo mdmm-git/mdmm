@@ -1,6 +1,6 @@
 # MDMM | Maks Perevyshko
 
-![MDMM]([https://raw.githubusercontent.com/mdmm-git/mdmm-git/124d29bace45cc2c0f9da42f1960054aed19e0ab/header.png)
+![MDMM](https://github.com/mdmm-git/mdmm/blob/main/header.png)
 
 ### Technology Stack
 #### Game Development
